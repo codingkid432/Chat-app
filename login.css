@@ -1,4 +1,13 @@
 body{
     text-align: center;
+}
+#login_info{
+    margin-top: 200px;
+    margin-left: 500px;
+    margin-right: 500px;
     background-color: aqua;
+    text-align: center;
+}
+#username{
+    width: 250px;
 }
